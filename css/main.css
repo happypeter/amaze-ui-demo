@@ -46,16 +46,25 @@
   color: white;
 }
 
-.wechat {
-  background: #ef6c00;
+.svg-wrapper {
   width: 44px;
   height: 44px;
   border-radius: 50%;
   box-shadow: 0 2px 5px 0 rgba(0, 0, 0, .16), 0 2px 10px 0 rgba(0, 0, 0, .12);
   margin: 5px auto;
 }
-.social .wechat svg {
+.social  svg {
   fill: white;
   margin-top: 10px;
   margin-left: 10px;
+}
+.svg-wrapper.wechat {
+  background: #ef6c00;
+}
+.svg-wrapper.github {
+  background-color: #26a69a;
+}
+
+.social >* {
+  float: left;
 }
