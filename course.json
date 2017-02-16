@@ -1,0 +1,38 @@
+{
+  "name": "Gulp-Flexbox 响应式网站课程",
+  "price": "88",
+  "intro": "采用 gulp 构建工具，flexbox 布局技巧来开发响应式网站，涉及 sass，google 材料设计，git 和 sublime 技巧。",
+  "content": [
+    {
+      "header": "第一章 用 Github 托管网站",
+      "section": [
+        {
+          "title": "搭建 Github 个人网站"
+        },
+        {
+          "title": "搭建 Github 项目网站"
+        },
+        {
+          "title": "coding.net 托管页面"
+        }
+      ]
+    },
+    {
+      "header": "第二章 安装 nodejs 和 gulp",
+      "section": [
+        {
+          "title": "Nodejs 为何学？如何学？"
+        },
+        {
+          "title": "Nodejs 安装"
+        },
+        {
+          "title": "gulp 构建系统"
+        },
+        {
+          "title": "使用 gulp-sass"
+        }
+      ]
+    }
+  ]
+}
